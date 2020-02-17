@@ -1,5 +1,12 @@
-This is a landing page project in which I learn what makes a great landing page GREAT. 
+# Zero to Mastery's Landing Page Project
 
-Things I've learned: Flexbox, Bootstrap 4, MailChimp, and a few elements of design and copywriting. 
+A project in which I learn how to build a landing page with an email subscription form, courtesy of Andrei Neagoie's "The Complete Web Developer in 2020: Zero to Mastery" course on Udemy. I also learned what makes a great landing page **GREAT!** ~~I may have learned how to write a decent README.~~ :speak_no_evil:
 
-I also learned how to host pages on GitHub Pages. 
+## Technologies Used: 
+
+  * HTML
+  * CSS
+  * Bootstrap 4
+  * MailChimp
+  * GitHub Pages
+
